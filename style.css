@@ -32,14 +32,13 @@ article{
 .img-card{
     position: relative;
     text-align: center;
+    border-radius: 15px 15px 0 0;
 }
 .victor{
     display: grid;
     position:absolute;
     border-radius: 50%;
-    grid-row: 3/4;
-    margin-top: -5rem;
-    
+    margin: -5rem 7.5rem;
 }
 ol{
     border-top: black 10px;
