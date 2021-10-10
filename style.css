@@ -35,15 +35,16 @@ article{
 }
 .victor{
     display: grid;
-    grid-template-columns: 1;
-    position: absolute;
-    border-image: round;
+    position:absolute;
     border-radius: 50%;
+    grid-row: 3/4;
+    margin-top: -5rem;
+    
 }
 ol{
     border-top: black 10px;
     margin:0;
-    padding:0 37%;
+    padding:0 18%;
     text-align: center;
     list-style:none;
     display: flex;
